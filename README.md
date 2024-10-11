@@ -4,7 +4,7 @@
 
 
 ## Project Overview
-
+---
  This Excel documentation aims at letting others go through my journey in learning Data Analysis with LITA at The Incubator Hub. My significant growth since I started this journey has really left me surprised. This documentation will help you navigate through Excel like a pro.
 
 ## Table of Content
@@ -14,7 +14,9 @@
   3. How to clean your data
   4. Pivot table creation
 
-- SQL QUERY (Structured Query Language)
+     *QUERYIMNGGGG*
+
+- SQL QUERY (**Structured Query Language**)
  1. DML
  2. DCL
  3. TCL
@@ -22,3 +24,8 @@
 - GIT HUB ACCOUNT CREATION
    1. Repository creation
    2. Profile update
+
+ ```SQL
+SELECT * FROM TABLE1
+WHERE CONDITION = TRUE
+```
