@@ -19,7 +19,7 @@
   3. How to clean your data
   4. Pivot table creation
 
-     *QUERYIMNGGGG*
+     *JUST WANTED TO SEE HOW ITALIZE WORKS HERE
 
 - SQL QUERY (**Structured Query Language**)
  1. DML
