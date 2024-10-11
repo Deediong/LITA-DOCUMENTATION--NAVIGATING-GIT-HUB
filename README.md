@@ -40,7 +40,6 @@ WHERE CONDITION = TRUE
 
 ![WhatsApp Image 2024-10-01 at 13 02 26_eea777a3](https://github.com/user-attachments/assets/97fcb8eb-9568-4e02-b883-9f6e177b6a7f)
 
-![IMG_4381](https://github.com/user-attachments/assets/bb16964a-ffe4-4d0f-b326-0aee64382afd)
 
 👞
 🥇🥇🥇
