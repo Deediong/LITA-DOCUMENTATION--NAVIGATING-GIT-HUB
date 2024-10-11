@@ -20,7 +20,7 @@
   4. Pivot table creation
 
      *JUST WANTED TO SEE HOW ITALIZE WORKS HERE
-
+💻😄
 - SQL QUERY (**Structured Query Language**)
  1. DML
  2. DCL
@@ -42,9 +42,8 @@ WHERE CONDITION = TRUE
 
 ![IMG_4381](https://github.com/user-attachments/assets/bb16964a-ffe4-4d0f-b326-0aee64382afd)
 
-: COMPUTER
-
-: TEACHER
+👞
+🥇🥇🥇
 
 |heading 1| heading 2| heading 3|
 |---------|---------|----------|
